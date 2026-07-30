@@ -1,4 +1,5 @@
 # Concept Note: DirBuster, Directory Enumeration, & Fuzzing
+# TryHackMe: Lesson - Offensive Security Intro
 
 ## 1. Objective
 Understand the fundamentals of web server file structures, learn how directory enumeration and fuzzing work together, and explore how automated tools like DirBuster discover unlinked administrative endpoints and sensitive files during a security assessment.
